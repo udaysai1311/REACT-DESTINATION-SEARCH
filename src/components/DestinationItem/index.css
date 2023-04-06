@@ -1,0 +1,9 @@
+.lists-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+}
+.images {
+  width: 200px;
+}
